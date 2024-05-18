@@ -1,0 +1,98 @@
+-- RUNNING 1024 KERNEL ITERATIONS WITH: --
+World dim: 1024 x 1024
+World length: 1048576
+Increments: 1
+
+Blocks: 32768
+Threads per block: 32
+Cells reachable: 1048576
+Estimated worlds memory usage: 2 MiB
+
+
+real	0m1.696s
+user	0m0.063s
+sys	0m0.516s
+-- RUNNING 1024 KERNEL ITERATIONS WITH: --
+World dim: 2048 x 2048
+World length: 4194304
+Increments: 3
+
+Blocks: 65535
+Threads per block: 32
+Cells reachable: 2097120
+Estimated worlds memory usage: 8 MiB
+
+
+real	0m1.514s
+user	0m0.115s
+sys	0m0.506s
+-- RUNNING 1024 KERNEL ITERATIONS WITH: --
+World dim: 4096 x 4096
+World length: 16777216
+Increments: 9
+
+Blocks: 65535
+Threads per block: 32
+Cells reachable: 2097120
+Estimated worlds memory usage: 32 MiB
+
+
+real	0m1.590s
+user	0m0.255s
+sys	0m0.542s
+-- RUNNING 1024 KERNEL ITERATIONS WITH: --
+World dim: 8192 x 8192
+World length: 67108864
+Increments: 33
+
+Blocks: 65535
+Threads per block: 32
+Cells reachable: 2097120
+Estimated worlds memory usage: 128 MiB
+
+
+real	0m2.390s
+user	0m0.795s
+sys	0m0.845s
+-- RUNNING 1024 KERNEL ITERATIONS WITH: --
+World dim: 16384 x 16384
+World length: 268435456
+Increments: 129
+
+Blocks: 65535
+Threads per block: 32
+Cells reachable: 2097120
+Estimated worlds memory usage: 512 MiB
+
+
+real	0m6.244s
+user	0m3.405s
+sys	0m1.920s
+-- RUNNING 1024 KERNEL ITERATIONS WITH: --
+World dim: 32768 x 32768
+World length: 1073741824
+Increments: 513
+
+Blocks: 65535
+Threads per block: 32
+Cells reachable: 2097120
+Estimated worlds memory usage: 2048 MiB
+
+
+real	0m24.906s
+user	0m16.773s
+sys	0m7.234s
+-- RUNNING 1024 KERNEL ITERATIONS WITH: --
+World dim: 65536 x 65536
+World length: 4294967296
+Increments: 2049
+
+Blocks: 65535
+Threads per block: 32
+Cells reachable: 2097120
+Estimated worlds memory usage: 8192 MiB
+
+
+real	2m26.220s
+user	1m44.650s
+sys	0m40.918s
